@@ -1,3 +1,7 @@
+# Sooktat
+- 숙명여자대학교 통계학과 학회
+- 활동기간 : 2022.02-2023.02
+
 ### Data Mining for Business Analytics
 &lt;Sooktat> 학회에서 6개월 동안 배운 데이터 마이닝 정리했습니다.
 
